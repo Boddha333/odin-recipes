@@ -1,1 +1,1 @@
-# odin-recipes
+A simple recipe project showcasing basic HTML skills learnt through the foundation lesson of the odin project.
